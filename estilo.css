@@ -1,0 +1,315 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous);
+
+
+ @media screen and (max-width: 1200px) {
+    .texto{
+        font-family: 'Pacifico', cursive;
+        color: #2E64FE;
+        font-size:20px;
+       
+       
+    }
+
+
+} 
+
+
+
+ @media screen and (max-width: 600px) {
+    .texto{
+        font-family: 'Pacifico', cursive;
+        color: #2E64FE;
+        font-size:10px;
+       
+       
+    }
+
+
+} 
+
+
+
+
+
+@media screen and (max-width: 360px) {
+    .texto{
+        font-family: 'Pacifico', cursive;
+        color: #2E64FE;
+        font-size:10px;
+       
+       
+    }
+
+
+} 
+
+
+
+
+
+
+
+@media screen and (max-width: 1200px) {
+.titulo{
+    font-family: 'Pacifico', cursive;
+    color: #2E64FE;
+    font-size:50px;
+    
+  }
+
+}
+
+
+@media screen and (max-width: 600px) {
+.titulo{
+    font-family: 'Pacifico', cursive;
+    color: #2E64FE;
+    font-size:20px;
+    
+  }
+
+}
+
+
+@media screen and (max-width: 360px) {
+.titulo{
+    font-family: 'Pacifico', cursive;
+    color: #2E64FE;
+    font-size:10px;
+    
+  }
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1200px) {
+.menu{
+   font-family: 'Pacifico', cursive;
+    color: #2E64FE;
+    width:100%;
+    height:100%;
+    font-size:15px;
+  }
+ 
+
+}
+    
+
+@media screen and (max-width: 600px) {
+.menu{
+   font-family: 'Pacifico', cursive;
+    color: #2E64FE;
+    width:100%;
+    height:100%;
+    font-size:10px;
+  }
+ 
+
+}
+
+
+@media screen and (max-width: 360px) {
+.menu{
+   font-family: 'Pacifico', cursive;
+    color: #2E64FE;
+    width:100%;
+    height:100%;
+    font-size:5px;
+  }
+ 
+
+}
+
+
+
+
+
+
+    
+    
+    
+    
+@media screen and (max-width: 1200px) {   
+.midia01{
+    position:relative;
+    width:100%;
+    height:100%;
+ }
+
+
+}
+
+
+
+@media screen and (max-width: 600px) {   
+.midia01{
+    position:relative;
+    width:100%;
+    height:100%;
+ }
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 360px) {   
+.midia01{
+    position:relative;
+    width:100%;
+    height:100%;
+  }
+
+
+}
+
+
+@media screen and (max-width: 1200px) {
+    .assinatura{
+       position:relative;
+       width:20%;
+       height:20%;
+       font-family: 'Pacifico', cursive;
+       font-size:20px;
+       color:antiquewhite;
+       
+    }
+
+
+  } 
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .assinatura{
+       position:relative;
+       width:20%;
+       height:20%;
+       font-family: 'Pacifico', cursive;
+       font-size:10px;
+       color:antiquewhite;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 360px) {
+    .assinatura{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Pacifico', cursive;
+       font-size:5px;
+       color:antiquewhite;
+
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 1200px) {
+    .rede{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Pacifico', cursive;
+       font-size:20px;
+        color: antiquewhite;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 600px) {
+    .rede{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Pacifico', cursive;
+       font-size:10px;
+        color: antiquewhite;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 360px) {
+    .rede{
+       position: relative;
+       width:20%;
+       height:20%;
+       font-family: 'Pacifico', cursive;
+       font-size:5px;
+       color: antiquewhite;
+       
+    }
+
+
+  } 
+
+
+  @media screen and (max-width: 1200px) {
+    .icone{
+       position: relative;
+       width: 20%;
+       height:20%;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 600px) {
+    .icone{
+       position: relative;
+       width: 10%;
+       height:10%;
+       
+    }
+
+
+  } 
+
+  @media screen and (max-width: 360px) {
+    .icone{
+       position: relative;
+       width:5%;
+       height:5%;
+       
+    }
+
+
+  } 
+
+
+
+
+
+
+
+
+
+
+
+
